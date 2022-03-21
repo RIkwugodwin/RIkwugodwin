@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RIkwugodwin
 - 👀 I’m interested in ... trying new thing
-- 🌱 I’m currently learning ... front-end developmentr with Curiosity Xploring
+- 🌱 I’m currently learning ... front-end developer with Curiosity Xploring
 - 💞️ I’m looking to collaborate on ...Project that will develop me
 - 📫 How to reach me ... my Email on Successrico@gmail.com
 
